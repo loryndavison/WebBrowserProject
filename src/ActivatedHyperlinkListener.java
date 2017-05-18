@@ -5,6 +5,7 @@
  * It contains a constructor which sets the listener to the pane passed as a parameter.
  * It updates the pane to URL that the hyperlink points to.
  *  
+ *  I added a comment
  */
 
 import java.io.IOException;
